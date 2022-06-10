@@ -1,0 +1,24 @@
+{
+  "name": "all-about-api",
+  "version": "1.0.0",
+  "description": "Developer: Blake Thollaug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bthol/all-about-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bthol/all-about-api/issues"
+  },
+  "homepage": "https://github.com/bthol/all-about-api#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.6"
+  }
+}
